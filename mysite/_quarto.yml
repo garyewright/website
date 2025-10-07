@@ -3,10 +3,12 @@ project:
   output-dir: ../docs
 
 website:
-  title: "mysite"
+  title: "Gary"
   navbar:
     left:
       - href: index.qmd
+      - href: research.qmd
+        text: Research
         text: Home
       - about.qmd
 
